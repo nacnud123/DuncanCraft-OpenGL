@@ -16,6 +16,7 @@ F9 - Load
 
 Esc - Unlock mouse
 
+R - Reset position
 
 Q - Quit
 
