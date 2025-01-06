@@ -1,5 +1,5 @@
 # DuncanCraft-OpenGL
-This is a Minecraft clone, a voxel game project I made in C++ using GLFW + GLAD + IMGUI + GLM + OpenGL. You can break and place blocks and save and load the world. Very basic sort of thing.
+This is a Minecraft clone, a voxel game project I made in C++ using GLFW + GLAD + IMGUI + GLM + OpenGL. You can break and place blocks and save and load the world. I'm not the best at OpenGL so there may be some bug, but hopefully none are like game breaking. Very basic sort of thing.
 # Controls
 W A S D - Move around
 
